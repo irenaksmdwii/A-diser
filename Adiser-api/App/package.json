@@ -1,0 +1,28 @@
+{
+  "name": "adiser-api",
+  "version": "1.0.0",
+  "description": "make api Adiser register,login,and CRUD Prossecing data for Villager and headman ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GadiseMustika/A-diser.git"
+  },
+  "author": "CC22-PC417 Teams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GadiseMustika/A-diser/issues"
+  },
+  "homepage": "https://github.com/GadiseMustika/A-diser#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.0"
+  }
+}
